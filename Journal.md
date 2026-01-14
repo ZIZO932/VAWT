@@ -1,6 +1,6 @@
 # Hands-On Build Journal – Hybrid VAWT  
 **Total time:** ~28.5 hours  
-**Duration:** 6 days  
+**Duration:** 5 days  
 **Start date:** January 7  
 
 > Research, simulations, and material collection were already completed before this journal.  
@@ -90,3 +90,4 @@ This is all the tools i used in making the protoype.
 ![7.jpeg](/Images/T2.jpeg) 
 
 ![8.jpeg](/Images/T3.jpeg) 
+
