@@ -79,8 +79,7 @@ The gears (1:4 ratio, module 1.5) were already printed, so today I focused on fi
 Initial testing showed vibration at higher speed, so I tightened joints and adjusted blade spacing. After fixing that, the turbine rotated more smoothly and the voltage output became more stable.
 
 **Images to add:**
-![9.jpeg](/Images/9.jpeg) 
-[![W](/Video.mp4)]
+![9.png](/Images/9.png) 
 ---
 
 
@@ -89,4 +88,5 @@ Initial testing showed vibration at higher speed, so I tightened joints and adju
 This is all the tools i used in making the protoype.
 ![6.jpeg](/images/T1.jpeg) 
 ![7.jpeg](/Images/T2.jpeg) 
+
 ![8.jpeg](/Images/T3.jpeg) 
