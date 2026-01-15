@@ -16,7 +16,6 @@ I measured and marked the 3-inch UPVC pipe to cut it into three blades. This par
 
 By the end of the day, I had three straight UPVC blades cut and cleaned. Nothing complex yet, but it felt good to finally start physically building.
 
-**Images to add:**
 ![1.jpeg](/Images/1%20.jpeg) 
 ![2.jpeg](/Images/2.jpeg) 
 ---
@@ -30,7 +29,6 @@ The first blade didn’t turn out great because I overheated one side, so the tw
 
 By the end of the day, all three UPVC blades had a consistent helical twist of about **60°**. They were quite heavy, so I decided to use them as **templates** instead of final blades.
 
-**Images to add:**
 ![3.jpeg](/Images/3.jpeg) 
 ![4.jpeg](/Images/4.jpeg) 
 
@@ -46,10 +44,8 @@ I had to redo the outline twice because the curve alignment was slightly off. On
 I kept comparing the aluminum blades to the UPVC templates to keep the twist angle consistent. By the end of the day, I had three usable helical aluminum blades.
 
 
-**Images to add:**
 ![5.jpeg](/Images/5.jpeg) 
 
- 
 
 
 ---
@@ -61,7 +57,6 @@ Today was split between Savonius blades and the structure. I cut an aluminum foi
 
 After that, I worked on the structure. I cut one **60 cm aluminum tube** for the main shaft and **six 40 cm tubes** for blade supports. I also modified recycled plastic angle pieces from **90° to 120°** using heat. One piece cracked during heating, so I had to remake it.
 
-**Images to add:**
 ![6.jpeg](/Images/6.jpeg) 
 ![7.jpeg](/Images/7.jpeg) 
 ![8.jpeg](/Images/8.jpeg) 
@@ -78,7 +73,6 @@ The gears (1:4 ratio, module 1.5) were already printed, so today I focused on fi
 
 Initial testing showed vibration at higher speed, so I tightened joints and adjusted blade spacing. After fixing that, the turbine rotated more smoothly and the voltage output became more stable.
 
-**Images to add:**
 ![9.png](/Images/9.png) 
 ---
 
@@ -90,4 +84,5 @@ This is all the tools i used in making the protoype.
 ![7.jpeg](/Images/T2.jpeg) 
 
 ![8.jpeg](/Images/T3.jpeg) 
+
 
