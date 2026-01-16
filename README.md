@@ -1,2 +1,4 @@
 # VAWT
-This is a vertical axis wind turbine project where i started this project in the second semester of grade 10. At that time i only bought the materials for the turbine and didn't finish it completely.
+Over a period of six days (a total of 28.5 hours), I managed to go from the raw materials stage to having a functioning turbine. Because the design and materials were already determined, this is where the building and the fixing of the issues that arise come into play.
+
+The project also included fixing practical workshop snags such as re-measuring errors, uneven heating during the process of crafting helical blades, reducing blade weight through a switch to aluminum, and aligning bearings and shafts to minimize friction. The journal also indicates how I developed the project design as I constructed it, including the tools and materials employed, and how it significantly improved performance through minute modifications. It concludes with final construction, connecting it electrically via a dynamo and battery system, as well as its success during testing.
